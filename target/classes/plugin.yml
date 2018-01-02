@@ -1,0 +1,3 @@
+name: minecradft_gui_shop
+main: /minecraft_gui_shop/src/main/java/io/github/MrSmuugle/minecraft_gui_shop/Minecraft_gui_shop.java
+version: ${version}
